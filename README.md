@@ -7,13 +7,12 @@ LiveCode is a web-based hosting service for version control such as Git.
 - Free
 - Without limit for the team persons
 - Suitable for the university and professors
-- Made by the kashan university
 
-## Domain
+### Domain
 
 Please suggest the suitable name for the domain.
 
-Desired words :
+**Desired words :**
 
 - git, git plus
 - cloud, git cloud, cloud code
@@ -21,7 +20,7 @@ Desired words :
 - code
 
 
-## Server
+### Server
 
 There is no problem in serving and hosting this website because we have suitable server for it.
 
